@@ -25,9 +25,4 @@ Este é um organizador de arquivos inteligente desenvolvido em **Python** com um
 
 ---
 
-## 📦 Como Instalar e Rodar
 
-1. **Clone este repositório:**
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/organizador-arquivos.git](https://github.com/SEU_USUARIO/organizador-arquivos.git)
-   cd organizador-arquivos
